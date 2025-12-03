@@ -1,0 +1,5 @@
+{
+  "name": "ArchiCheck AI",
+  "description": "건축 예정지의 주소와 용도를 입력하여 관련 건축 법규 및 규제 사항을 체크리스트로 확인하는 AI 기반 서비스입니다.",
+  "requestFramePermissions": []
+}
